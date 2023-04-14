@@ -7,6 +7,6 @@ let c: number = 2;
 
 console.log("hi");
 
-console.log(a / b);
+// console.log(a / b);
 
-console.log(c * b);
+// console.log(c * b);
