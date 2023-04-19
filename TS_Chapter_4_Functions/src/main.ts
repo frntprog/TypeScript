@@ -89,5 +89,4 @@ const isNumber = (value: any): boolean => {
 const numberOrString = (value: number | string): string => {
   if (typeof value === "string") return "string";
   if (isNumber(value)) return "number";
-  return createError("This should never happen!");
 };
