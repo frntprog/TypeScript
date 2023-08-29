@@ -12,7 +12,7 @@ let person: [number, string, boolean] = [1, "Brad", true];
 // Tuple Array
 let employees: [number, string][];
 
-employee = [
+employees = [
   [1, "Brad"],
   [2, "John"],
   [3, "Jill"],
